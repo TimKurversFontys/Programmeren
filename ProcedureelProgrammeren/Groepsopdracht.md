@@ -1,5 +1,3 @@
-Dat klinkt als een leuke en leerzame opdracht! Hier is een uitgewerkte opdracht voor een "nep" AI die reageert op de input van de gebruiker. De applicatie zal vooraf gegeven antwoorden gebruiken en biedt de mogelijkheid om antwoorden toe te voegen of te verwijderen.
-
 # Opdracht: Nep AI Chatbot
 
 ## Doel
