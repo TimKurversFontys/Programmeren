@@ -50,36 +50,36 @@ De "Visitors Placement Tool" is bedoeld om bezoekers (individueel of in groepen)
     - Zorg voor unittests om de functionaliteit te waarborgen.
 
 ## Mogelijk stappenplan
-1. **1: Analyse en Voorbereiding**
+1. **: Analyse en Voorbereiding**
     - Verdeel de taken binnen het team.
     - Analyseer de eisen en ontwerp de datastructuren voor vakken, rijen, stoelen en bezoekers.
 
-2. **2: Basisstructuur**
+2. **: Basisstructuur**
     - Implementeer klassen voor Vak, Rij, Stoel, Bezoeker en Groep.
     - Zorg voor unieke identificatie van stoelen en bezoekers.
 
-3. **3: Registratie en Aanmelding**
+3. **: Registratie en Aanmelding**
     - Bouw functionaliteit voor registratie en aanmelding van bezoekers en groepen.
 
-4. **4: Plaatsingsalgoritme**
+4. **: Plaatsingsalgoritme**
     - Implementeer het algoritme voor het toewijzen van stoelen, rekening houdend met alle eisen (kinderen vooraan, groepen bij elkaar, optimalisatie).
 
-5. **5: Toegangscontrole**
+5. **: Toegangscontrole**
     - Implementeer logica voor weigeren van te late of dubbele aanmeldingen en overschrijding van het maximum.
 
-6. **6: Visualisatie**
+6. **: Visualisatie**
     - Ontwerp een eenvoudige visualisatie van de stoelen, bezoekers en groepen.
 
-7. **7: Overzicht en Rapportage**
+7. **: Overzicht en Rapportage**
     - Toon een overzicht van geweigerde bezoekers met reden.
 
-8. **8: Import/Export**
+8. **: Import/Export**
     - Voeg functionaliteit toe voor het genereren en inlezen van bezoekerslijsten.
 
-9. **9: Testen**
+9. **: Testen**
     - Schrijf unittests voor de belangrijkste onderdelen.
 
-10. **10: Presentatie en Reflectie**
+10. **: Presentatie en Reflectie**
     - Bereid een demonstratie voor en reflecteer op het ontwikkelproces.
 
 ## Bonusuitdagingen
