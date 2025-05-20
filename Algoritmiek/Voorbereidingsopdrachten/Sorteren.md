@@ -45,9 +45,9 @@ Probeer deze opdracht volledig zelfstandig op te lossen, zonder gebruik te maken
     - Experimenteer met het implementeren van deze verschillende algoritmes en vergelijk hun prestaties en complexiteit.
     - Voeg eventueel een manier toe om het gewenste sorteeralgoritme te kiezen bij het uitvoeren van je programma.
 
-    ## Extra Uitdaging
+## Extra Uitdaging
 
-    4. **Vergelijk theorie en praktijk:**
-        - Voeg een timer toe aan je programma (bijvoorbeeld met `System.Diagnostics.Stopwatch`) om de tijd te meten die elk sorteeralgoritme nodig heeft om een array te sorteren.
-        - Vergelijk de gemeten tijd met de verwachte efficiëntie volgens de Big O-notatie.
-        - Experimenteer met verschillende groottes van arrays en noteer je bevindingen in een tabel of grafiek.
+4. **Vergelijk theorie en praktijk:**
+    - Voeg een timer toe aan je programma (bijvoorbeeld met `System.Diagnostics.Stopwatch`) om de tijd te meten die elk sorteeralgoritme nodig heeft om een array te sorteren.
+    - Vergelijk de gemeten tijd met de verwachte efficiëntie volgens de Big O-notatie.
+    - Experimenteer met verschillende groottes van arrays en noteer je bevindingen in een tabel of grafiek.
